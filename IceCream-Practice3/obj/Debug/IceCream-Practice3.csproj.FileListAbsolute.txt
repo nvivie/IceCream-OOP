@@ -1,0 +1,12 @@
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\IceCream-Practice3\IceCream-Practice3\bin\Debug\IceCream-Practice3.exe.config
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\IceCream-Practice3\IceCream-Practice3\obj\Debug\IceCream-Practice3.csprojResolveAssemblyReference.cache
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\IceCream-Practice3\IceCream-Practice3\bin\Debug\IceCream-Practice3.exe
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\IceCream-Practice3\IceCream-Practice3\bin\Debug\IceCream-Practice3.pdb
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\IceCream-Practice3\IceCream-Practice3\obj\Debug\IceCream-Practice3.exe
+\\vmware-host\shared folders\documents\visual studio 2013\Projects\IceCream-Practice3\IceCream-Practice3\obj\Debug\IceCream-Practice3.pdb
+\\vmware-host\Shared Folders\Documents\Projects\Columbia Chicago College Projects\CCC2014\OOP\FinalPracticing\IceCream-Practice3\IceCream-Practice3\bin\Debug\IceCream-Practice3.exe.config
+\\vmware-host\Shared Folders\Documents\Projects\Columbia Chicago College Projects\CCC2014\OOP\FinalPracticing\IceCream-Practice3\IceCream-Practice3\obj\Debug\IceCream-Practice3.exe
+\\vmware-host\Shared Folders\Documents\Projects\Columbia Chicago College Projects\CCC2014\OOP\FinalPracticing\IceCream-Practice3\IceCream-Practice3\obj\Debug\IceCream-Practice3.pdb
+\\vmware-host\Shared Folders\Documents\Projects\Columbia Chicago College Projects\CCC2014\OOP\FinalPracticing\IceCream-Practice3\IceCream-Practice3\obj\Debug\IceCream-Practice3.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Projects\Columbia Chicago College Projects\CCC2014\OOP\FinalPracticing\IceCream-Practice3\IceCream-Practice3\bin\Debug\IceCream-Practice3.exe
+\\vmware-host\Shared Folders\Documents\Projects\Columbia Chicago College Projects\CCC2014\OOP\FinalPracticing\IceCream-Practice3\IceCream-Practice3\bin\Debug\IceCream-Practice3.pdb
